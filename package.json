@@ -1,0 +1,22 @@
+{
+  "name": "noderestapi",
+  "version": "1.0.0",
+  "description": "Node REST API with Express, Node and Mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
+    "mongoose": "^4.9.7"
+  },
+  "devDependencies": {
+    "gulp-env": "^0.4.0",
+    "supertest": "^3.0.0"
+  }
+}
